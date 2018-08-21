@@ -39,7 +39,7 @@ pattern et expliquer pourquoi ce pattern a été utilisé plutôt qu’un autre.
 
 **Answer**
 
-Please read the [README.md](https://github.com/zackhotte/numigi-tests/numigi_tests/test2/README.md) document inside the 
+Please read the [README.md](https://github.com/zackhotte/numigi-tests/tree/master/numigi_tests/test2) document inside the 
 package numigi_tests.test2.
 
 ### Test3: Décorateur
