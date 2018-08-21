@@ -1,0 +1,4 @@
+from numigi_tests.test1.number_circle import circle_of_numbers
+from numigi_tests.test3.decorateur import redirect_exception
+from numigi_tests.test4.duplicates import remove_duplicates, remove_duplicates_better
+from numigi_tests.test5.ninety_nine_bottles_of_beer import ninety_nine_bottles_of_beer, generate_lyrics
